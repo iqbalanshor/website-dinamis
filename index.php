@@ -25,8 +25,8 @@
   </div>
   <!-- ./konten -->
   <footer>
-    <div class="text-bg-dark p-3 text-center mt-5">
-      Pemrograman Web 1 @ <?= date("Y") ?>
+    <div class="text-bg-info text-light p-3 text-center mt-5">
+      M Iqbal Al Anshori @ <?= date("Y") ?>
     </div>
   </footer>
   <script src="assets/jquery/jquery-3.7.1.js"></script>
