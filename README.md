@@ -7,10 +7,12 @@
 | DOSEN :| Eko Budiarto, S.Kom.,M.M |
 
 # Halaman Home
-![Home](https://github.com/user-attachments/assets/94b7c56a-e084-4ebb-9c6b-809c5d719d87)
+![Home](https://github.com/user-attachments/assets/4ccb3319-fc1b-4bdd-a42c-c60bd078144b)
+
 
 # Halaman Portofolio
-![Portofolio](https://github.com/user-attachments/assets/3b089831-5fd4-4c80-b649-e8c6af805724)
+![Portofolio](https://github.com/user-attachments/assets/c9e9b40e-5463-43fe-ba9a-cbae7e5f01e0)
+
 
 # Halaman Contact
 ![Contact](https://github.com/user-attachments/assets/3044b1e7-fe3b-4e62-a573-adbc78d8f292)
